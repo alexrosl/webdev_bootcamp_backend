@@ -1,0 +1,13 @@
+https://ide.c9.io/learnwithcolt/webdevbootcamp
+
+https://ide.c9.io/nax3t/node
+https://github.com/nax3t/background-slider
+
+
+//книга по JS, горячо рекомендуемая Кольтом
+https://leanpub.com/javascriptallongesix/read
+
+
+//ПРОЕКТЫ Яна, которые идут отдельно от YelpCamp
+- facebook_authoriztion
+- image upload, no db

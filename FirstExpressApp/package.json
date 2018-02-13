@@ -1,0 +1,19 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "firstexpressapp description",
+  "main": "app.js",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.16.2",
+    "faker": "^4.1.0",
+    "package.json": "^2.0.1",
+    "total.js": "^2.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Reshetnikov",
+  "license": "ISC"
+}

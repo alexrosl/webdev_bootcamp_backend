@@ -1,0 +1,7 @@
+<% include partials/header.ejs %>
+
+<% posts.forEach(function(post) { %>
+    <li><strong><%= post["author"] %></strong> - <%= post["postTitle"] %></li>
+<% }) %>
+
+<% include partials/footer.ejs %>
